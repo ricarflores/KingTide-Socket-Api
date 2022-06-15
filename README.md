@@ -40,10 +40,10 @@ If you no include the API KEY in the requets you will recibe a 401 response
     - Use postman collection to access to the endpoint
     - General URL : http://localhost:4000/api/mensajes/
 
-| EndPoint | Type | Params  |
-| ------------- | ------------- | ------------- |
-| public  | GET  |   | 
-| create/apiKey | GET  |  |
-| apiKey/:apiKey | GET  | apiKey  |
-| apiKey/delete/:apiKey | GET  | apiKey  |
-| private | GET  |   |
+| EndPoint | Type | Params  | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| public  | GET  |   | Get All Public Messages |
+| create/apiKey | GET  |  | Create a new Api KEY, by the fault the API KEY is not active |
+| apiKey/:apiKey | GET  | apiKey  | Active the API KEY if is disable |
+| apiKey/delete/:apiKey | GET  | apiKey  | Disable API KEY |
+| private | GET  |   | Get All private Messages |
