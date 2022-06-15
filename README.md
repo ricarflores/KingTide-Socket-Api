@@ -32,8 +32,8 @@ npm run dev
 ```
 
 # API Descriptio
-For the API use need to sent a API KEY in the headers
-  - authorization
+For the API use need to sent a API KEY in the headers like authorization
+
 If you no include the API KEY in the requets you will recibe a 401 response
 
 ## For test end point
