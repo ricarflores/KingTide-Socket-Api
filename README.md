@@ -6,3 +6,15 @@ Socket and API for Prueba Tecnica
 ```sh
 npm install
 ```
+
+# Init Server
+
+```sh
+npm run start
+```
+
+# Init fro develop
+
+```sh
+npm run dev
+```
