@@ -21,5 +21,9 @@ npm run start
 # Init fro develop
 
 ```sh
+npm run tsc
+```
+
+```sh
 npm run dev
 ```
