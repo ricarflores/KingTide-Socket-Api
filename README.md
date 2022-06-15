@@ -1,6 +1,9 @@
 # KingTide-Socket-Api
 Socket and API for Prueba Tecnica
 
+# Importan !!!
+By default this project use a mongo data base in atlas, maybe sometimes the response would we slown
+
 # Install dependencies
 
 ```sh
