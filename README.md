@@ -10,6 +10,11 @@ npm install
 # Init Server
 
 ```sh
+npm run tcs
+```
+After executing the command
+
+```sh
 npm run start
 ```
 
